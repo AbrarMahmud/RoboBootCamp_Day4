@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="www.linkedin.com/in/kazi-abrar-mahmud" target="_blank">
+  <a href="www.linkedin.com/in/kazi-abrar-mahmud/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
